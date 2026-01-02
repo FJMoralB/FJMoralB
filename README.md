@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hola, soy Francisco José Moral 👋
 
-<!--
-**FJMoralB/FJMoralB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Analista de Ciberseguridad Junior** y **Desarrollador Web** con base en Córdoba, España. Me especializo en seguridad ofensiva y auditoría de aplicaciones web.
 
-Here are some ideas to get you started:
+- 🛡️ **Certificaciones:** eLearnSecurity Junior Penetration Tester (**eJPTv2**)
+- 🔭 **Actualmente trabajando en:** Laboratorios de HTB/TryHackMe y preparando la **CompTIA Security+**.
+- 💻 **Stack Técnico:**
+  - **Pentesting:** Nmap, Burp Suite, Metasploit, Wireshark.
+  - **Sistemas:** Linux (Kali/Parrot), Windows, Bash.
+  - **Desarrollo:** Python, PHP, JS, SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Herramientas & Habilidades
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-EB5B46?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/fjmoral)
